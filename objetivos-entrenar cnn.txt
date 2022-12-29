@@ -1,0 +1,20 @@
+SAP CORTEX, REVISAR !!!
+SACAR UN CURSO EN LOS 6 MESES
+DOCUMENTAL 
+DATA AUTOMATION
+PRUEBAS DE CONCEPTO - DEMOS
+
+NO SE EJECUTA TODO EL PRODUCTO !!!
+
+GCP !!!!!!!
+REUNIONES A LAS 9 AM (?)
+
+Seguirlo en todas las reuniones que se puedan !! - hasta el 6 de enero
+Revisar el calendario
+Shadowing !!
+
+VER LAS PRUEBAS DE CONCEPTO Y VER LOS TRACKS ESPECIFICOS COMO REALIZARLOS !!!
+YOUTUBE O ALGO ...
+
+
+python custom.py train --dataset=C:\Users\Asus\Desktop\TRABAJO\Arboles\Custom_MaskRCNN\samples\custom\dataset --weights=coco
